@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0%;
+  box-sizing: content-box;
+}
+
+.titulo {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 51%,
+    rgba(123, 88, 207, 1) 100%
+  );
+  color: white;
+  text-align: center;
+  padding: 25px 25px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.botao02{
+  
+    background: rgb(255, 42, 3);
+    background: linear-gradient(
+      90deg,
+      rgba(255, 42, 3, 1) 0%,
+      rgba(9, 121, 12, 1) 44%,
+      rgba(202, 208, 10, 1) 100%
+    );
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 0px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 15px;
+    
+    width: 100%;
+  }
+  a:hover {
+    box-shadow: 10px 10px 5px lightblue;
+  
+  }

@@ -1,0 +1,66 @@
+.titulo {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 51%,
+    rgba(123, 88, 207, 1) 100%
+  );
+  color: white;
+  text-align: center;
+  padding: 25px 25px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+* {
+  padding: 0;
+  margin: 0%;
+  box-sizing: content-box;
+}
+
+div {
+  text-align: center;
+  margin-top: 50px;
+  border: solid 1px;
+  width: 30%;
+
+  margin-left: 500px;
+
+}
+
+.botao02 {
+  background: rgb(255, 42, 3);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 42, 3, 1) 0%,
+    rgba(9, 121, 12, 1) 44%,
+    rgba(202, 208, 10, 1) 100%
+  );
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 20px;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 20px;
+  
+}
+
+#aaa{
+  position: absolute;
+
+  margin-left: 10px;
+}
+
+input {
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#Cadastro{
+  margin-right: -65px;
+}
